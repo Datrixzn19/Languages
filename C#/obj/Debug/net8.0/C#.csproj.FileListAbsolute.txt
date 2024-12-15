@@ -1,0 +1,15 @@
+/home/datrixzn19/Desktop/Languages/C#/bin/Debug/net8.0/C#
+/home/datrixzn19/Desktop/Languages/C#/bin/Debug/net8.0/C#.deps.json
+/home/datrixzn19/Desktop/Languages/C#/bin/Debug/net8.0/C#.runtimeconfig.json
+/home/datrixzn19/Desktop/Languages/C#/bin/Debug/net8.0/C#.dll
+/home/datrixzn19/Desktop/Languages/C#/bin/Debug/net8.0/C#.pdb
+/home/datrixzn19/Desktop/Languages/C#/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/datrixzn19/Desktop/Languages/C#/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/home/datrixzn19/Desktop/Languages/C#/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/home/datrixzn19/Desktop/Languages/C#/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/home/datrixzn19/Desktop/Languages/C#/obj/Debug/net8.0/C#.sourcelink.json
+/home/datrixzn19/Desktop/Languages/C#/obj/Debug/net8.0/C#.dll
+/home/datrixzn19/Desktop/Languages/C#/obj/Debug/net8.0/refint/C#.dll
+/home/datrixzn19/Desktop/Languages/C#/obj/Debug/net8.0/C#.pdb
+/home/datrixzn19/Desktop/Languages/C#/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/home/datrixzn19/Desktop/Languages/C#/obj/Debug/net8.0/ref/C#.dll
